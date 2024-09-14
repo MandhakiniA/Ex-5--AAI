@@ -1,7 +1,7 @@
 <H3>ENTER YOUR NAME : A.Mandhakini</H3>
 <H3>ENTER YOUR REGISTER NO : 212223100030.</H3>
 <H3>EX. NO.5</H3>
-<H3>DATE:</H3>
+<H3>DATE:16:04:2024</H3>
 <H1 ALIGN =CENTER> Implementation of Kalman Filter</H1>
 <H3>Aim:</H3> To Construct a Python Code to implement the Kalman filter to predict the position and velocity of an object.
 <H3>Algorithm:</H3>
@@ -13,6 +13,9 @@ Step 4: Update the state estimate based on the measurement using kf.update().<BR
 Step 5: Store the estimated state in a list.<BR>
 Step 6: Plot the true and estimated positions.<BR>
 <H3>Program:</H3>
+
+
+
 ```c
 import numpy as np
 import matplotlib.pyplot as plt
@@ -58,8 +61,11 @@ plt.show()
 ```
 
 
+
 <H3>Output:</H3>
-![image](https://github.com/user-attachments/assets/b0faf7c4-c232-4517-8a0e-027998036aae)
+
+![image](https://github.com/charumathiramesh/Ex-5--AAI/assets/120204455/8479a3f4-2c1a-460b-a1dd-3083d3268f3b)
+
 
 
 <H3>Results:</H3>
